@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Rojin Baniya!</h1>
+# 👋 Hey there, I'm Rojin Baniya!
 
 <p align="center">
 It's a pleasure to see you here.<br>
@@ -71,8 +71,10 @@ Thank you for visiting!
 
 ---
 
+## 👀 Visitor Count
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rozeen-Baniya&icon=0&color=5" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Rozeen-Baniya&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
@@ -86,3 +88,5 @@ Thank you for visiting!
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
+
+---
