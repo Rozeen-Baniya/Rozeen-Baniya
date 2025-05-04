@@ -1,9 +1,9 @@
-# 👋 Hey there, I'm Rojin Baniya!
+# 👋 Hey there, Rojin Baniya here!
 
 <p align="center">
 It's a pleasure to see you here.<br>
-Feel free to contact me anytime.<br>
-Let's get connected!!!!
+Let's get connected!!!!<br>
+Feel free to contact me anytime.
 </p>
 
 ---
