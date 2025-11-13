@@ -8,6 +8,12 @@
 
 <p align="left">UI/UX creator, frontend dev & a cinephile<br>*Justice is served with a side of brooding monologue🦇*<br>Gotham's skyline lives rent-free in my head dark, brooding, and beautifully chatoic 🖤<br></p>
 
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rozeen-Baniya&color=blueviolet" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 🌐 Socials
@@ -70,15 +76,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Rozeen-Baniya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rozeen-Baniya&color=blueviolet" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🐍 GitHub Activity Snake
