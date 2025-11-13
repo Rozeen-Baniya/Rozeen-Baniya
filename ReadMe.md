@@ -8,7 +8,7 @@
 
 <p align="left">UI/UX creator, frontend dev & a cinephile<br>*Justice is served with a side of brooding monologue🦇*<br>Gotham's skyline lives rent-free in my head dark, brooding, and beautifully chatoic 🖤<br></p>
 
-## 👀 Visitor Count
+# 👀 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rozeen-Baniya&color=blueviolet" alt="Profile Views"/>
