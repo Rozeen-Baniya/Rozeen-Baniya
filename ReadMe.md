@@ -8,7 +8,6 @@
 
 <p align="left">UI/UX creator, frontend dev & a cinephile<br>*Justice is served with a side of brooding monologue🦇*<br>Gotham's skyline lives rent-free in my head dark, brooding, and beautifully chatoic 🖤<br></p>
 
-# 👀 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rozeen-Baniya&color=blueviolet" alt="Profile Views"/>
@@ -69,23 +68,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
 </p>
 
----
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rozeen-Baniya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-</p>
----
-
-## 🐍 GitHub Activity Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</p>
-
----
