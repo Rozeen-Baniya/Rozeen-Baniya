@@ -1,10 +1,12 @@
 # 👋 Hey there, Rojin Baniya here!
 
-<p align="center">
-It's a pleasure to see you here.<br>
-Let's get connected!!!!<br>
-Feel free to contact me anytime. 
-</p>
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
+
+###
+
+<p align="left">UI/UX creator, frontend dev & a cinephile<br>*Justice is served with a side of brooding monologue🦇*<br>Gotham's skyline lives rent-free in my head dark, brooding, and beautifully chatoic 🖤<br></p>
 
 ---
 
