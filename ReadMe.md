@@ -8,7 +8,7 @@ rojin_baniya
 ❯ cat ~/.config/profile
 
 Name        : Rojin Baniya
-Role        : Computer Science Undergraduate
+Role        : Computer Science Undergrad
 Experience  : AI/ML Research Intern
 Location    : Nepal
 
@@ -18,10 +18,8 @@ Location    : Nepal
 
 • Deep Learning
 • Computer Vision
-• Accessibility
-• Backend Systems
-• Linux Customization
-• Formula 1
+• Linux Ricing
+• F1
 
 ~
 
