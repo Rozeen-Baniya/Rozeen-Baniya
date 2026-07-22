@@ -8,7 +8,7 @@ rojin_baniya
 ❯ cat ~/.config/profile
 
 Name        : Rojin Baniya
-Role        : Computer Science Undergrad
+Education   : BSc (Hons.) Computer Science
 Experience  : AI/ML Research Intern
 Location    : Nepal
 
