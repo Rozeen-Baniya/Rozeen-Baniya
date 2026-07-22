@@ -1,4 +1,4 @@
-
+```console
 ❯ whoami
 
 rojin_baniya
@@ -44,4 +44,4 @@ Thanks for stopping by 👋
 ~
 
 ❯ █
-
+```
