@@ -1,6 +1,4 @@
-<div align="left">
-
-```
+```console
 ❯ whoami
 
 rojin_baniya
@@ -29,11 +27,11 @@ Location    : Nepal
 
 ❯ uptime
 
-3 years, still compiling ideas...
+Building since 2022. No planned downtime.
 
 ~
 
-❯ ls ~/socials
+❯ cat ~/contacts
 
 LinkedIn : linkedin.com/in/rojinbaniya
 Medium   : medium.com/@rozeenbaniya
@@ -41,12 +39,11 @@ Email    : rozeenbaniya@gmail.com
 
 ~
 
-❯ exit
-
-logout
+❯ echo "Thanks for stopping by 👋"
 
 Thanks for stopping by 👋
 
-```
+~
 
-</div>
+❯ █
+```
